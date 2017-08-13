@@ -1,0 +1,108 @@
+.fa-phone {margin-left: 5%;
+ }
+.fa-envelope {margin-left: 5%;
+}
+.mail:hover {color: red;
+				}
+.first img {width: 70%;
+			height: 20%;
+			margin-top: -3%;
+			margin-left: 18%;
+			}
+.gear2{margin-left: 51%; 
+	   margin-top:7%;
+		}		
+.gear {margin-left: 47%;
+		margin-top: -1%;
+			}	
+
+.second {margin-left: 25%;}
+nav ul li {display: inline-block;
+			padding-right: 3%;
+			padding-left: 3%;
+}
+nav li a  {text-decoration: none;
+			font-size: 19px;
+			font-family: 'Raleway', sans-serif;
+			}
+
+nav li a:hover {color: red;
+				font-style: italic;
+				border-top: 2px solid black;
+				}
+.mySlides {height: 90vh;}		
+.third h2 {font-family:'Open Sans' sans-serif;
+			font-size: 32px;
+			font-weight: bold;
+			margin-top: 5%;
+			margin-left: 8%;
+			text-align: center;
+			margin-bottom: 2%;
+		}		
+.third p {font-family:'Open Sans' sans-serif;
+		font-size: 13px;
+		font-weight: normal;
+		color: gray;
+		display: block;
+		text-align: center;
+	    margin-left: 5%;
+	    margin-right: 5%;
+	}
+.line1 {border-bottom: 1px solid #EBEBEB;
+			width: 91%;
+			margin-left: 5%; 
+			margin-right: 5%; 
+			margin-top: 2%;
+		}
+
+.line {border-bottom: 1px solid #EBEBEB;
+	   width: 91%;
+	   margin-left: 5%; 
+	   margin-right: 5%; 
+	   margin-top: 5%;
+	}
+.four { display: inline-block;
+		margin-left: 13%;
+		margin-top: 5%;
+	}
+.four h4 {font-family: 'Raleway', sans-serif;}
+.four div {div:not(:first-child):not(:last-child) 
+  				margin-left: 40px;
+  				margin-right: 40px;
+  			}
+.dugme button a {text-decoration: none;
+				 font-size: 15px;
+				 font-family: 'Open sans' sans-serif;
+				}		
+.dugme button {border: none;
+    		   color: white;
+   			   padding: 15px 32px;
+    		   text-align: center;
+    		   text-decoration: none;
+    		   display: inline-block;
+   			   font-size: 16px;
+     		   cursor: pointer;
+    		   -webkit-transition-duration: 0.4s; /* Safari */
+               transition-duration: 0.4s; 
+               margin-left: 39%; 
+               margin-top: 5%;
+			}
+.dugme button:hover {	text-decoration:underline;
+ 						box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19); 
+ 					}				
+.five h2 {	font-family:'Open Sans' sans-serif;
+			font-size: 32px;
+			font-weight: bold;
+			margin-top: 2%;
+			text-align: center;
+			margin-bottom: 2%;
+		}
+.dugme button:active { background-color: gray;
+  					   box-shadow: 0 5px #666;
+  				       transform: translateY(4px);
+  				   }			
+#map {	width: 70%;
+		height: 400px;
+		margin-left: 18%;
+		background-color: grey;
+	}
